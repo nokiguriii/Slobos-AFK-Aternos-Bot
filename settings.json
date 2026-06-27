@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "warpedsmp.mcsh.io",
+    "ip": "163.5.201.10",
     "port": 14973,
     "version": "1.16.5",
     "try-creative": false
